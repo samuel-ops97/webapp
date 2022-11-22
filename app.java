@@ -2,3 +2,4 @@
 # Please do not hard code
 # Please make use of variable and dynamic variables
 # Author Tezehtech
+# This is a front-end application
