@@ -8,3 +8,7 @@ caleb
 cchi
 moses
 kingsley
+opi
+obi
+joel
+tezeh
