@@ -2,3 +2,5 @@
 prometheus
 Grafana
 newrelic
+appDynamis
+Dynatrace
