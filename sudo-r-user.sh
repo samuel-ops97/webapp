@@ -1,5 +1,5 @@
 #!/bin/bash
-#This scrip will create users and assign sudo right
+#This script will create users and assign sudo right
 #it will work well in Linux, RedHat,& Centos servers
 #Run only as root user or with sudo access.
 #AUTHOR Tezehtech
